@@ -1,4 +1,5 @@
 # DisableLogWrite
+## WARNING: This plugin no longer works correctly on latest PocketMine-MP versions as of 2019-04-14. Your server will freeze if an error occurs while the plugin is loaded.
 
 A hacky plugin for PocketMine-MP to disable writing the log file to disk.
 
